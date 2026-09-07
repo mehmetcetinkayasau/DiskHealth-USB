@@ -1,0 +1,9 @@
+smartmontools 7.5 (smartctl.exe, drivedb.h) - GNU GPL v2, see COPYING.txt
+Binaries are shipped unmodified, taken from the official Windows package:
+  https://github.com/smartmontools/smartmontools/releases/download/RELEASE_7_5/smartmontools-7.5.win32-setup.exe
+  MD5: bb1e199ad6a3db3e1c27ae54b835cbd5
+Source code of the exact version:
+  https://github.com/smartmontools/smartmontools/releases/download/RELEASE_7_5/smartmontools-7.5.tar.gz
+Project home: https://www.smartmontools.org/
+x64\smartctl.exe = package bin\smartctl.exe (64-bit), x86\smartctl.exe = package bin32\smartctl.exe (32-bit).
+smartctl is invoked by DiskHealth as a separate process; DiskHealth itself is not derived from smartmontools.

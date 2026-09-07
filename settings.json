@@ -1,0 +1,20 @@
+{
+  "reportsFolder": "Reports",
+  "smartctlPath": "",
+  "autoSaveReport": true,
+  "smartctlTimeoutSeconds": 45,
+  "technicianName": "",
+  "deviceTypeOverrides": {},
+  "readTestHeadMb": 1024,
+  "readTestTailMb": 1024,
+  "readTestRandomBlocks": 48,
+  "readTestBlockMb": 16,
+  "selfTestMaxMinutes": 15,
+  "deepTestSelfTest": true,
+  "selfTestKind": "short",
+  "readTestBlockTimeoutSeconds": 30,
+  "readTestStallMs": 2000,
+  "saveHtml": true,
+  "saveJson": true,
+  "includeRawSmartctlJson": true
+}
